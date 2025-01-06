@@ -13,6 +13,8 @@ quickly get started with building self-hosted AI workflows.
 
 ### What’s included
 
+✅ [**nginx-proxy-manager**](https://nginxproxymanager.com/) - Reverse proxy manager for local development
+
 ✅ [**Self-hosted n8n**](https://n8n.io/) - Low-code platform with over 400
 integrations and advanced AI components
 
